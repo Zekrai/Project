@@ -10,4 +10,4 @@ The main goal is to learn python as I progress on this project which implies the
 
 the battle_code.py file showcase a minimal idea of the battle but still is lacking the enemy turn and inventory spells and abilities. Many stats are to be added too.
 
-the 
+the text_RPG.py file showcase only basics of the process from menu to game but are on the process to be changed (using pygame to execute everything and use everything as an actual application especially for menu and printing + player inputs)
